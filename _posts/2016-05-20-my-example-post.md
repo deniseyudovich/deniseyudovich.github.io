@@ -1,12 +1,17 @@
 ---
-layout: post
+layout: Presentations
 ---
 
-Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
+Incoming: CUWIP (Conferences for Undergraduate Women in Physics)
 
-{% comment %}
-Might you have an include in your theme? Why not try it here!
-{% include my-themes-great-include.html %}
-{% endcomment %}
+Giving a Talk at The Leadership Alliance National Symposium, LANS (July 2024):  <img width="862" alt="Screen Shot 2024-11-19 at 1 13 46 PM" src="https://github.com/user-attachments/assets/46258e85-ef09-4a25-94a2-aa6f495d4879">
 
-No laudem altera adolescens has, volumus lucilius eum no. Eam ei nulla audiam efficiantur. Suas affert per no, ei tale nibh sea. Sea ne magna harum, in denique scriptorem sea, cetero alienum tibique ei eos. Labores persequeris referrentur eos ei.
+Me at the University of Florida, Undergraduate Research Symposium (Nov 2023): <img width="442" alt="Screen Shot 2024-11-19 at 1 21 09 PM" src="https://github.com/user-attachments/assets/aee69c41-592f-4c30-9ba5-15eafd4dd78d">
+
+Giving a Talk at Rice University, GCURS (Golf Coast Undergraduate Research Symposium) (Oct 2023): <img width="840" alt="Screen Shot 2024-11-19 at 1 16 54 PM" src="https://github.com/user-attachments/assets/21b1f40b-598d-49f5-9242-0d4ae33adc36">
+
+Giving a Talk at the University of Hawai'i at Manoa's Institute for Astronomy (July 2023): <img width="381" alt="Screen Shot 2024-11-19 at 1 18 16 PM" src="https://github.com/user-attachments/assets/34a00843-c736-49ee-bff9-737d698c8869">
+
+Me at the American Astronomical Society (AAS), 243rd Meeting (Jan 2024) <img width="480" alt="Screen Shot 2024-11-19 at 1 03 59 PM" src="https://github.com/user-attachments/assets/fd167ed5-7f5a-4e9f-8f74-376d730f4725">
+
+
