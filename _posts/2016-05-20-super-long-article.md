@@ -20,20 +20,26 @@ _Volunteer_
       the center and managed donations to families in need.
       
 3. UF Society of Women in Physics
-   
+
+_Club Member_
+
       Initiated community outreach programs that increase awareness of physics in the local community. Created an inclusive community of   
       women in physics.
    
-4. UF Society of Physics Students
-   
+3. UF Society of Physics Students
+
+_Club Member_
+
       Promoted physics through outreach events and helped create an inclusive community of physics students.
    
-5. Astronomy and Astrophysics Society
+3. Astronomy and Astrophysics Society
+
+_Club Member_
     
       Initiated community outreach programs that increase awareness of Astronomy in local education centers. Managed excursions to local 
       observatories and space centers, encouraging a hands-on educative experience.
    
-6. Humane Society
+5. Humane Society
     
 _Outreach Volunteer_
 
