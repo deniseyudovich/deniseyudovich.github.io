@@ -1,5 +1,5 @@
 ---
-layout: Presentations
+title: "Presentations"
 ---
 
 Incoming: CUWIP (Conferences for Undergraduate Women in Physics)
