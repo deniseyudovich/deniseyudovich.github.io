@@ -35,8 +35,9 @@ plugins:
 header_pages:
   - about.md
   - research.md
-  - presentations.md
   - involvement.md
+  - presentations.md
+
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
