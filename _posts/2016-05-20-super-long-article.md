@@ -47,7 +47,7 @@ _Club Member_
     
 _Outreach Volunteer_
 
-      Established a community service project, Paws4Life, that promotes the adoption 
+      Established a community service project, _Paws4Life_, that promotes the adoption 
       processes of hard-to-adopt animals at the Humane Society through fundraising and 
       social media outreach. Currently creating an app in Java that facilitates 
       adoptions by matching sheltered pets with potential owners.
