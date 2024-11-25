@@ -9,7 +9,7 @@ layout: home
 ---
 
 
-<img align = "right" width="300" alt="Screen Shot 2024-11-22 at 3 24 42 PM" src="https://github.com/user-attachments/assets/06f8142a-5a9d-446d-9335-8964e0f0e01d"> 
+<img align = "right" width="400" alt="Screen Shot 2024-11-22 at 3 24 42 PM" src="https://github.com/user-attachments/assets/06f8142a-5a9d-446d-9335-8964e0f0e01d"> 
 
 Welcome! I am a fourth-year Astrophysics major and English minor at the **University of Florida**. I am interested both in plasma theory and mathematical/gravitational physics. I especially enjoy researching the role **magnetic reconnection** plays in creating stellar flares and Coronal Mass Ejections (CMEs), as well as the implications these events have on exoplanet habitability. My interest in gravitational physics lies primarily in understanding **string theory** through a mathematical lens.
 
