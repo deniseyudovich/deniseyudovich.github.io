@@ -6,7 +6,7 @@ permalink: /involvement/
 
 ## Activities:
 1. UF Women in Astrophysics and Astronomy Mentorship Program
-   
+    
 _Mentor and Event Coordinator_
 
       Mentored students pursuing Astrophysics degrees at the undergraduate level, guiding 
