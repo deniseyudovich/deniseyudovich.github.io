@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-Upcoming: CUWIP (Conferences for Undergraduate Women in Physics)
+**Upcoming**: CUWIP (Conferences for Undergraduate Women in Physics)
 
 Me giving a Talk at The Leadership Alliance National Symposium, LANS (July 2024):  
 
