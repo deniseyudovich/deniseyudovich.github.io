@@ -8,7 +8,7 @@
 layout: home
 ---
 
-| <img align = "left" width="400" alt="Screen Shot 2024-11-22 at 3 24 42 PM" src="https://github.com/user-attachments/assets/06f8142a-5a9d-446d-9335-8964e0f0e01d"> | 
+| hehe <img align = "left" width="400" alt="Screen Shot 2024-11-22 at 3 24 42 PM" src="https://github.com/user-attachments/assets/06f8142a-5a9d-446d-9335-8964e0f0e01d"> | 
 |:--:| 
 | *Space* |
 
