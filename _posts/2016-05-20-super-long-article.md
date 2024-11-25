@@ -18,15 +18,15 @@ _Mentor and Event Coordinator_
 _Volunteer_
 
       Supported and comforted abused, neglected, and trafficked children in preparation 
-      for therapy sessions. Assisted in the betterment of the center and managed donations 
-      to families in need.
+      for therapy sessions. Assisted in the betterment of the center and managed 
+      donations to families in need.
       
 3. UF Society of Women in Physics
 
 _Club Member_
 
-      Initiated community outreach programs that increase awareness of physics in the local 
-      community. Created an inclusive community of women in physics.
+      Initiated community outreach programs that increase awareness of physics in the 
+      local community. Created an inclusive community of women in physics.
    
 3. UF Society of Physics Students
 
@@ -47,7 +47,7 @@ _Club Member_
     
 _Outreach Volunteer_
 
-      Established a community service project, Paws4Life, that promotes the adoption processes 
-      of hard-to-adopt animals at the Humane Society through fundraising and social media outreach. 
-      Currently creating an app in Java that facilitates adoptions by matching sheltered pets with 
-      potential owners.
+      Established a community service project, Paws4Life, that promotes the adoption 
+      processes of hard-to-adopt animals at the Humane Society through fundraising and 
+      social media outreach. Currently creating an app in Java that facilitates 
+      adoptions by matching sheltered pets with potential owners.
