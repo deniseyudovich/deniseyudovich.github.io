@@ -24,6 +24,6 @@ Download my [CV][cvLink] for more information.
 Check out my [ORCID][orcidLink] Profile for a list of my publications. 
 
 [orcidLink]: https://orcid.org/0009-0008-0072-120X 
-[cvLink]: https://deniseyudovich.github.io/download/cv.pdf
+[cvLink]: https://deniseyudovich.github.io/download/cv2.pdf
 
 
