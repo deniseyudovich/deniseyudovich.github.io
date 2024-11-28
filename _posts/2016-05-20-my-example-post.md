@@ -1,7 +1,7 @@
 ---
 title: "Presentations"
 ---
-
+ 
 **Upcoming**: CUWIP (Conferences for Undergraduate Women in Physics)
 
 The Leadership Alliance National Symposium, LANS (July 2024):  
