@@ -4,7 +4,7 @@ title: "Research"
 categories: junk
 ---
  
-# Projects:
+# Projects: 
 
 1. My main work is analyzing the morphology of late-phase stellar flares from G-, K-, and M-type stars. Late-phase, or peak-bump, flares have a complex light curve morphology consisting of an impulsive peak followed by a gradual bump. These flares are highly energetic and pose important implications for habitability. After searching for the occurrence of these flares on cool stars, I analyzed their impulsive and bump profiles, finding important statistical relations between them. A first-author paper on this research has been submitted to the Astrophysical Journal (ApJ).
 
