@@ -27,5 +27,12 @@ University of Hawai'i's Institute for Astronomy (July 2023):
 
 <img width="381" alt="Screen Shot 2024-11-19 at 1 18 16 PM" src="https://github.com/user-attachments/assets/34a00843-c736-49ee-bff9-737d698c8869">
 
+### Additional:
+1. Stanford University, KIPAC (August 2024): _Searching for Radio-loud AGN in Galaxy Clusters_
+2. Stanford University, KIPAC (July 2024): _Analyzing the Morphology of Late-phase Stellar Flares from G-,
+K-, and M-type Stars_
+
+
+
 
 
