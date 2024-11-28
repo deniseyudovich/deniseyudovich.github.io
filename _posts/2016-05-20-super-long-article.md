@@ -5,15 +5,15 @@ categories: misc
 ---
 
 ## Activities:
-UF Women in Astrophysics and Astronomy Mentorship Program
-   
+# UF Women in Astrophysics and Astronomy Mentorship Program
+
 _Mentor and Event Coordinator_
 
       Mentored students pursuing Astrophysics degrees at the undergraduate level, guiding 
       them through courses and research. Helped create an inclusive community of 
       Astrophysics students, specifically women in Astrophysics.
       
-Child Advocacy Center
+# Child Advocacy Center
    
 _Volunteer_
 
@@ -21,21 +21,21 @@ _Volunteer_
       for therapy sessions. Assisted in the betterment of the center and managed 
       donations to families in need.
       
-UF Society of Women in Physics
+# UF Society of Women in Physics
 
 _Club Member_
 
       Initiated community outreach programs that increase awareness of physics in the 
       local community. Created an inclusive community of women in physics.
    
-UF Society of Physics Students
+# UF Society of Physics Students
 
 _Club Member_
 
       Promoted physics through outreach events and helped create an inclusive community 
       of physics students.
    
-Astronomy and Astrophysics Society
+# Astronomy and Astrophysics Society
 
 _Club Member_
     
@@ -43,7 +43,7 @@ _Club Member_
       education centers. Managed excursions to local observatories and space centers, 
       encouraging a hands-on educative experience.
    
-Humane Society
+# Humane Society
     
 _Outreach Volunteer_
 
