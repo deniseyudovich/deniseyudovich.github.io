@@ -14,7 +14,7 @@ layout: home
 
  
 
-Welcome! I am a fourth-year Astrophysics major and English minor at the **University of Florida**. 
+Welcome! I am a PhD student in the **APS** department at the **University of Colorado Boulder**. I completed my BS in Astrophysics (and minored in English) at the **University of Florida**. 
 
 
 
