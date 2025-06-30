@@ -7,7 +7,7 @@ categories: misc
 ## Activities:
 ### UF Women in Astrophysics and Astronomy Mentorship Program
 
-_Mentor and Event Coordinator_
+_Mentor and Event Coordinator_  HEHE
 
       Mentored students pursuing Astrophysics degrees at the undergraduate level, guiding 
       them through courses and research. Helped create an inclusive community of 
